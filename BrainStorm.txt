@@ -1,1 +1,3 @@
 BrainStorm-Projeto-Estacionamento-2SIB
+- Coletar dados sobre os clientes do estacionamento
+- Controle de vagas
